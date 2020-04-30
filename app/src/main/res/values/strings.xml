@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Maps Direction</string>
+    <string name="google_maps_key">AIzaSyBaJLZzsbQvF9dXGZ8kl5VTaL1J5Q9_SKU</string>
+    <string-array name="cari_tempat">
+        <item>Tempat Terdekat</item>
+        <item>SPBU</item>
+        <item>Restoran</item>
+        <item>Kantor Polisi</item>
+    </string-array>
+</resources>
